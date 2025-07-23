@@ -61,7 +61,7 @@ typeWriter();
 
 document.addEventListener("DOMContentLoaded", function () {
 const elements = document.querySelectorAll('.typewriter');
-const texts = ["NO WOMAN, NO CRY"];
+const texts = ["No woman, no cry."];
 const typingSpeed = 60;
 const pauseDuration = 1500;
 let currentIndex = 0;
